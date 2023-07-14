@@ -6,13 +6,15 @@
 </p>
 > Tinta
 
-This project is a student grade calculator implemented using HTML, CSS, and JavaScript. It provides a simple and intuitive user interface for entering student information and calculating the final grade based on their assignment and test scores.
+This project is a paint calculator implemented using HTML, CSS, and JavaScript. It allows users to calculate the amount of paint needed to cover a specific wall area in their house. Additionally, it calculates the number of 1-liter and 5-liter paint cans required to complete the painting job. It provides a user-friendly interface for inputting wall dimensions and displays the calculated results. A helpful tool for estimating paint quantities for home improvement projects.
 
 ## Features
 
-Grade Calculator provides the following features:
-* input student information
-* calculates the final grade based on the student's assignment and test scores
+Paint Calculator
+* input wall dimensions
+* input paint coverage
+* calculate paint quantity
+* calculate number of 1-liter and 5-liter paint cans
 
 ## Contributing
 
