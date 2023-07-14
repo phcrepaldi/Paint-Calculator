@@ -1,0 +1,55 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.anterior {
+    display: flex;
+    justify-content: center;
+}
+
+.principal {
+    background-image: radial-gradient(rgb(117, 84, 160), rgb(27, 0, 97));
+    box-shadow: 5px 5px 10px 1px rgba(104, 100, 122, 0.5);
+    border-radius: 10px;
+    width: 400px;
+    height: 335px;
+    position: relative;
+}
+
+body {
+    background-image: radial-gradient(rgba(23, 0, 156, 0.5), rgb(18, 0, 100));
+}
+
+h2 {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+button {
+    color: rgb(0, 5, 54);
+    background-color: rgb(206, 207, 255);
+    border: solid 1px;
+    border-radius: 5px;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.interna {
+    color: white;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 3px;
+    text-align: left;
+    margin-left: 60px;
+    margin-top: 18px;
+    width: 300px;
+}
+
+input {
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.5);
+    background-color: rgb(190, 182, 235);
+    font-weight: 700;
+}
